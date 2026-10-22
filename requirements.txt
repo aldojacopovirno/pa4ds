@@ -1,0 +1,4 @@
+# Most exercises use only Python's standard library.
+# functions/01_try_pcinput.py needs the external `pcinput` module.
+# Provide it separately and make it importable before running that exercise.
+# No pip package or version is declared for this external module.
