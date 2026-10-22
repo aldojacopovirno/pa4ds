@@ -7,8 +7,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/aldojacopovirno/pa4ds/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
----
-
 This repository is designed as an approachable, hands-on practice space for the Python building blocks used in data science (and general programming). The aim is to provide a (beginner-friendly) collection of bite-sized exercises that can be solved with a few lines of code, illustrating clear, readable, and intuitive problem-solving patterns.
 
 ## Repository Structure
