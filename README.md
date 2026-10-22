@@ -84,8 +84,8 @@ Exercises within each topic folder progress from trivial one-liners to "more com
    pip install -r requirements.txt
    ```
 
-   > [!NOTE]
-   > `functions/01_try_pcinput.py` requires the external `pcinput` helper module. It is not included in this repository and must be provided separately if you run that specific exercise.
+> [!NOTE]
+> `functions/01_try_pcinput.py` requires the external `pcinput` helper module. It is not included in this repository and must be provided separately if you run that specific exercise.
 
 ### Running an Exercise
 
