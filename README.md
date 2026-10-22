@@ -13,16 +13,16 @@ This repository is designed as an approachable, hands-on practice space for the 
 
 ```text
 pa4ds/
-├── arithmetic/       # 9 exercises
-├── conditionals/     # 3 exercises
-├── functions/        # 18 exercises
-├── games/            # 2 exercises
-├── lists/            # 10 exercises
-├── loops/            # 11 exercises
-├── randomness/       # 3 exercises
-├── recursion/        # 3 exercises
-├── strings/          # 9 exercises
-├── tuples/           # 5 exercises
+├── arithmetic/       
+├── conditionals/     
+├── functions/        
+├── games/            
+├── lists/            
+├── loops/
+├── randomness/
+├── recursion/
+├── strings/          
+├── tuples/           
 ├── .gitignore
 ├── CONVENTIONS.md
 ├── LICENSE
