@@ -1,7 +1,7 @@
 # (Elements of) Programming and Algorithms for Data Science
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Exercises](https://img.shields.io/badge/Exercises-73%20Total-f39c12?logo=codeforces&logoColor=white)](https://github.com/aldojacopovirno/pa4ds)
+[![Exercises](https://img.shields.io/badge/Exercises-78%20Total-f39c12?logo=codeforces&logoColor=white)](https://github.com/aldojacopovirno/pa4ds)
 [![Focus: Algorithms](https://img.shields.io/badge/Focus-Algorithms-6f42c1)](https://github.com/topics/algorithms)
 [![Focus: Data Science](https://img.shields.io/badge/Focus-Data%20Science-4c8c4a)](https://github.com/topics/data-science)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/aldojacopovirno/pa4ds/pulls)
@@ -15,6 +15,7 @@ This repository is designed as an approachable, hands-on practice space for the 
 pa4ds/
 ├── arithmetic/       
 ├── conditionals/     
+├── dictionaries/     
 ├── functions/        
 ├── games/            
 ├── lists/            
@@ -40,6 +41,7 @@ Exercises within each topic folder progress from trivial one-liners to "more com
 | :--- | :---: | :--- |
 | [`arithmetic/`](arithmetic/) | **9** | Calculations, numeric representations, and units |
 | [`conditionals/`](conditionals/) | **3** | Branching logic, decisions, and boundary cases |
+| [`dictionaries/`](dictionaries/) | **5** | Key-value mappings, frequency counts, lookups, and aggregations |
 | [`functions/`](functions/) | **18** | Reusable calculations, scope, and input helper wrappers |
 | [`games/`](games/) | **2** | Interactive mini-games built with simple data structures |
 | [`lists/`](lists/) | **10** | Sequence operations, slicing, and search algorithms |
