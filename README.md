@@ -1,7 +1,7 @@
 # (Elements of) Programming and Algorithms for Data Science
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Exercises](https://img.shields.io/badge/Exercises-86%20Total-f39c12?logo=codeforces&logoColor=white)](https://github.com/aldojacopovirno/pa4ds)
+[![Exercises](https://img.shields.io/badge/Exercises-89%20Total-f39c12?logo=codeforces&logoColor=white)](https://github.com/aldojacopovirno/pa4ds)
 [![Focus: Algorithms](https://img.shields.io/badge/Focus-Algorithms-6f42c1)](https://github.com/topics/algorithms)
 [![Focus: Data Science](https://img.shields.io/badge/Focus-Data%20Science-4c8c4a)](https://github.com/topics/data-science)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/aldojacopovirno/pa4ds/pulls)
@@ -22,6 +22,7 @@ pa4ds/
 ├── loops/
 ├── randomness/
 ├── recursion/
+├── sorting/
 ├── strings/          
 ├── tuples/           
 ├── .gitignore
@@ -48,6 +49,7 @@ Exercises within each topic folder progress from trivial one-liners to "more com
 | [`loops/`](loops/) | **11** | Iterative algorithms, accumulators, and repetition patterns |
 | [`randomness/`](randomness/) | **3** | Pseudo-random values, dice simulations, and shuffling |
 | [`recursion/`](recursion/) | **11** | Numeric and list base cases, Fibonacci, palindromes, call tracing, trees, subset search |
+| [`sorting/`](sorting/) | **3** | Selection and merge sort, binary search on sorted data |
 | [`strings/`](strings/) | **9** | Character traversal, pattern checking, and text transformations |
 | [`tuples/`](tuples/) | **5** | Immutable records, unpacking, and sequence comparisons |
 
