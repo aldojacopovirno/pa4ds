@@ -1,7 +1,7 @@
 # (Elements of) Programming and Algorithms for Data Science
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Exercises](https://img.shields.io/badge/Exercises-89%20Total-f39c12?logo=codeforces&logoColor=white)](https://github.com/aldojacopovirno/pa4ds)
+[![Exercises](https://img.shields.io/badge/Exercises-100%20Total-f39c12?logo=codeforces&logoColor=white)](https://github.com/aldojacopovirno/pa4ds)
 [![Focus: Algorithms](https://img.shields.io/badge/Focus-Algorithms-6f42c1)](https://github.com/topics/algorithms)
 [![Focus: Data Science](https://img.shields.io/badge/Focus-Data%20Science-4c8c4a)](https://github.com/topics/data-science)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/aldojacopovirno/pa4ds/pulls)
@@ -24,6 +24,7 @@ pa4ds/
 ├── recursion/
 ├── sorting/
 ├── strings/          
+├── text_files/
 ├── tuples/           
 ├── .gitignore
 ├── CONVENTIONS.md
@@ -36,7 +37,7 @@ pa4ds/
 
 These exercises are strictly for educational purposes and are not intended for production environments. Solutions prioritize clarity, readability, and step-by-step logic over premature optimization (which is outside the scope of this repository).
 
-Exercises within each topic folder progress from trivial one-liners to "more complex" problems that require multiple steps and (deeper) reasoning. Each exercise is self-contained in a single `.py` file, with the assignment described in comments at the top.
+Exercises within each topic folder progress from trivial one-liners to "more complex" problems that require multiple steps and (deeper) reasoning. Each exercise is self-contained in a single `.py` file, with the assignment described in comments at the top. The `text_files/` exercises also use small auxiliary `.txt` files stored beside them; files they generate (`*.tmp`, `letter_fractions.csv`) are git-ignored.
 
 | Topic | Exercises | Core Concepts & Highlights |
 | :--- | :---: | :--- |
@@ -51,6 +52,7 @@ Exercises within each topic folder progress from trivial one-liners to "more com
 | [`recursion/`](recursion/) | **11** | Numeric and list base cases, Fibonacci, palindromes, call tracing, trees, subset search |
 | [`sorting/`](sorting/) | **3** | Selection and merge sort, binary search on sorted data |
 | [`strings/`](strings/) | **9** | Character traversal, pattern checking, and text transformations |
+| [`text_files/`](text_files/) | **11** | Reading and writing files, line-by-line processing, word and letter counts, CSV output |
 | [`tuples/`](tuples/) | **5** | Immutable records, unpacking, and sequence comparisons |
 
 ## Getting Started
